@@ -5,6 +5,7 @@ The project is avaliable in http://fossasia.github.io/fossasia-loklak-tweetheatm
 ## Technology stack
 * Angular.js 1.5.0
 * OpenLayers 3.12.1
+
 ## Meta
 Created by Seva Zhidkov (@sevazhidkov) in Google Code-In 2015 with mentoring of
 Sudheesh Singanamalla (@sudheesh001) and Michael Peter Christen (@Orbiter).
